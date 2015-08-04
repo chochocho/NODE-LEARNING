@@ -1,7 +1,6 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "dependencies": {
     "ejs": "^2.3.3",
@@ -13,5 +12,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chochocho/NODE-LEARNING.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chochocho/NODE-LEARNING/issues"
+  },
+  "homepage": "https://github.com/chochocho/NODE-LEARNING#readme",
+  "description": ""
 }
